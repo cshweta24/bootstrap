@@ -1,0 +1,25 @@
+.body
+{
+    font-family: arial,sans-serif;
+}
+
+
+
+
+
+.input-class{
+
+    height: 45px;
+    width: 50%;
+    border-radius: 20px;
+border: 1px solid rgb(167, 164, 164);
+}
+
+
+
+.input-class:hover{
+    box-shadow: 1px 1px 5px rgb(158, 153, 153); 
+    border: none;
+    border-top: 1px;
+} 
+
