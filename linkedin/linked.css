@@ -1,0 +1,42 @@
+body{
+    background: url(/home/shweta/Documents/bootstrap/linkedin/image/64xk850n3a8uzse6fi11l3vmz.jpeg);background-size: auto;
+   
+}
+
+
+.c1{
+    background-color: #dee6e9;
+
+}
+.cl{
+    background-color:#283e4a;
+}
+
+
+
+.s{
+    margin-left: 300px;
+}
+
+
+.box{
+    width: 275px;
+}
+
+
+
+.main{
+   text-decoration: none; 
+}
+
+.main:hover{
+cursor: pointer;
+color: #0073b1;
+}
+
+
+.button{
+    height:35px;
+    width: 200px;
+    
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(249, 250, 252); 
+}
+
+
+
+.form-control{
+    background-color: rgb(249, 250, 252); 
+    font-size: 13px;
+}
+
+
+
+.btn{
+    height: 38px;
+    width: 250px;
+    margin-left: 34px;
+}
+
+
+
+.data1{
+    font-size: 13px;
+ 
+}
+
+.data1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
